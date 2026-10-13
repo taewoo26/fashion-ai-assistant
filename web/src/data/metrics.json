@@ -1,0 +1,62 @@
+{
+ "dataset": {
+  "name": "Amazon Reviews 2023 · Amazon Fashion",
+  "reviews": 289897,
+  "users": 118869,
+  "products": 70641,
+  "singleReviewUserRate": 0.8532127399299432,
+  "emptyDescriptionRate": 0.928
+ },
+ "recommendation": [
+  {
+   "model": "인기 상품",
+   "recall10": 0.0157568415650842,
+   "coldRecall10": 0.0
+  },
+  {
+   "model": "ItemCF",
+   "recall10": 0.0166990552625158,
+   "coldRecall10": 0.0
+  },
+  {
+   "model": "ALS",
+   "recall10": 0.0152016084933834,
+   "coldRecall10": 0.0
+  },
+  {
+   "model": "콘텐츠 기반",
+   "recall10": 0.03205,
+   "coldRecall10": 0.0226093722981151
+  }
+ ],
+ "queryUnderstanding": [
+  {
+   "method": "한국어 그대로 검색",
+   "categoryP5": 0.7
+  },
+  {
+   "method": "+ LLM 검색어 재작성",
+   "categoryP5": 0.9800000000000001
+  },
+  {
+   "method": "+ 재작성 + 필터",
+   "categoryP5": 0.9800000000000001
+  }
+ ],
+ "summary": {
+  "count": 200,
+  "supportedRate": 0.9724770642201835,
+  "sizeAgreement": 0.43859649122807015,
+  "costUsd": 0.27
+ },
+ "groundedness": {
+  "supportedRate": 1.0,
+  "unknownAdmitRate": 1.0,
+  "judgeModel": "gemini-3.5-flash-lite",
+  "n": 26
+ },
+ "latency": {
+  "medianMs": 1687,
+  "meanMs": 3564
+ }
+}

@@ -1,0 +1,89 @@
+[
+ {
+  "id": "demo-1",
+  "title": "여름 결혼식에 하객으로 입을 원피스 찾아줘",
+  "turns": [
+   {
+    "user": "여름 결혼식에 하객으로 입을 원피스 찾아줘",
+    "parsed": {
+     "intent": "search",
+     "productType": "dress",
+     "searchText": "summer wedding guest dress",
+     "sizeFit": "any",
+     "maxPrice": 0.0,
+     "refs": []
+    },
+    "products": [
+     "B07T5XQ2V2",
+     "B071GBDNYY",
+     "B07G46NKG1",
+     "B07MZ3JCR5",
+     "B07PFMG7Q4"
+    ],
+    "numbers": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "answer": "여름 결혼식 하객룩으로 착용하기 좋은 원피스 상품들을 소개해 드릴게요. [1] 상품은 터코이즈 컬러의 슬리브리스 파티 웨딩 게스트 드레스입니다. [2] 상품은 플로럴 패치워크 디자인의 플러스 사이즈 여름 웨딩 게스트 드레스예요. [3] 상품은 플로럴 레이스 디자인의 블러쉬 컬러 드레스입니다. [4] 상품은 우아한 오넥 레이스 디테일의 레드 컬러 펜슬 드레스이며, [5] 상품은 네이비 도트 패턴의 플러터 슬리브 스윙 드레스입니다. 모든 상품의 size_fit은 정보 없음으로 확인되어 정확한 사이즈를 단정하기 어려우니 참고 부탁드려요!",
+    "latencyMs": 1915
+   },
+   {
+    "user": "이거 한국으로 배송돼?",
+    "parsed": {
+     "intent": "product_qa",
+     "productType": "",
+     "searchText": "shipping to Korea",
+     "sizeFit": "any",
+     "maxPrice": 0.0,
+     "refs": [
+      1
+     ]
+    },
+    "products": [
+     "B07T5XQ2V2"
+    ],
+    "numbers": [
+     1
+    ],
+    "answer": "죄송하지만, [1] 상품 정보와 리뷰에 한국 배송에 대한 내용은 기재되어 있지 않아 확인되지 않아요. 배송과 관련된 구체적인 정보는 쇼핑몰의 배송 안내를 참고해 주시길 바랍니다. 다른 궁금한 점이 있으시면 언제든지 편하게 말씀해 주세요!",
+    "latencyMs": 1566
+   }
+  ]
+ },
+ {
+  "id": "demo-2",
+  "title": "작게 나와서 한 치수 크게 사야 하는 청바지…",
+  "turns": [
+   {
+    "user": "작게 나와서 한 치수 크게 사야 하는 청바지 추천해줘",
+    "parsed": {
+     "intent": "search",
+     "productType": "jeans",
+     "searchText": "jeans recommendation",
+     "sizeFit": "runs_small",
+     "maxPrice": 0.0,
+     "refs": []
+    },
+    "products": [
+     "B00RYCC3F2",
+     "B01KC7WW8I",
+     "B01JU3FH46",
+     "B01AAWYVIE",
+     "B0779SDWSB"
+    ],
+    "numbers": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "answer": "작게 나와서 한 치수 크게 사야 하는 청바지를 찾으시는군요! 리뷰에 따르면 [1] 상품은 사이즈가 작게 나와서 한 사이즈 크게 주문해야 한다고 합니다. 또한 [2] 상품도 작게 나왔다는 리뷰가 많으며 한 치수 크게 주문하라는 의견이 다수 존재합니다. [3] 상품 역시 대다수의 리뷰에서 사이즈가 작아 한두 사이즈 크게 주문해야 한다고 언급하고 있습니다. 마지막으로 [4] 상품도 작게 나왔다는 리뷰가 많고 타이트하다는 평이 있으니 참고해 주세요.",
+    "latencyMs": 1520
+   }
+  ]
+ }
+]

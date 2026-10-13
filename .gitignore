@@ -1,0 +1,17 @@
+# Python / Colab
+__pycache__/
+.ipynb_checkpoints/
+*.parquet
+*.npy
+*.faiss
+*.npz
+web_data/
+.env
+
+# Web
+web/node_modules
+web/.next
+web/out
+web/*.tsbuildinfo
+web/next-env.d.ts
+.DS_Store
