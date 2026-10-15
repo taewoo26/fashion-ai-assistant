@@ -21,8 +21,8 @@
     "과열 및 고주파 소음 발생",
     "방수가 되지 않음"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "스트랩 사이즈가 잘 맞고 가벼워서 아이들 손목에 부담이 없다는 리뷰가 있습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 24개 중 작다 0 · 정사이즈 0 · 크다 1",
    "productType": "smartwatch",
    "materials": [
     "plastic",
@@ -83,8 +83,8 @@
     "입구가 좁아 물건 꺼내기가 불편함",
     "지퍼 고장 문제"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "치수가 설명된 것과 정확히 일치한다는 리뷰가 많습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 426개 중 작다 39 · 정사이즈 12 · 크다 9",
    "productType": "messenger bag",
    "materials": [
     "canvas",
@@ -151,8 +151,8 @@
     "가슴 부분이 타이트하거나 핏이 안 맞음",
     "생각보다 짧거나 비침이 있는 소재"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대부분 잘 맞거나 여유롭다고 하지만, 가슴이나 체형에 따라 작거나 크게 느껴진다는 평이 섞여 있어 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 1019개 중 작다 122 · 정사이즈 222 · 크다 79",
    "productType": "dress",
    "materials": [
     "cotton",
@@ -213,8 +213,8 @@
     "일부 색상은 속옷이 비치거나 스쿼트 프루프가 아님",
     "허리 부분이 말려내려오거나 쉽게 올이 풀릴 수 있음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 이에게는 정사이즈이거나 잘 맞지만, 어떤 이에게는 허리가 크거나 작게 느껴지는 등 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 992개 중 작다 109 · 정사이즈 311 · 크다 78",
    "productType": "leggings",
    "materials": [
     "nylon",
@@ -280,7 +280,7 @@
     "엉덩이와 골반 부위가 큼"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "사이즈가 대체로 잘 맞으며 정사이즈라는 의견이 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 441개 중 작다 55 · 정사이즈 132 · 크다 28",
    "productType": "dress",
    "materials": [
     "polyester",
@@ -345,7 +345,7 @@
     "얇고 저렴한 품질"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰어들이 사이즈가 작게 나와서 평소보다 2사이즈 이상 크게 주문해야 한다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 421개 중 작다 111 · 정사이즈 75 · 크다 17",
    "productType": "cardigan",
    "materials": [
     "cotton",
@@ -409,8 +409,8 @@
     "군살이 부각되는 재질",
     "세탁 후 변색 또는 변형"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견과 함께 작거나 크다는 의견이 골고루 존재하여 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 397개 중 작다 47 · 정사이즈 138 · 크다 19",
    "productType": "dress",
    "materials": [
     "cotton",
@@ -473,8 +473,8 @@
     "크게 나온 암홀",
     "사이즈 편차가 있음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "사이즈가 작거나 크다는 리뷰가 엇갈리며, 암홀이 너무 크거나 기장이 짧다는 의견 등 사이즈에 대한 의견이 다양합니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 284개 중 작다 39 · 정사이즈 94 · 크다 15",
    "productType": "dress",
    "materials": [
     "polyester",
@@ -537,8 +537,8 @@
     "몸에 너무 딱 붙어 군살이 드러날 수 있음",
     "생각보다 얇거나 수영복 같은 소재 느낌"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견과 잘 맞았다는 평이 많지만, 작거나 크다는 리뷰도 공존하여 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 350개 중 작다 53 · 정사이즈 101 · 크다 25",
    "productType": "dress",
    "materials": [
     "spandex",
@@ -604,8 +604,8 @@
     "약한 스트랩 내구성 및 변색",
     "약한 야광 기능"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈나 핏에 대한 구체적인 언급이 없습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 60개 중 작다 0 · 정사이즈 2 · 크다 4",
    "productType": "watch",
    "materials": [
     "stainless steel",
@@ -668,8 +668,8 @@
     "저렴해 보이는 재질",
     "사이즈가 맞지 않음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "머리 큰 사람에게 잘 맞거나 크다는 평과 함께, 어떤 이에게는 작거나 너무 커서 흘러내린다는 의견이 엇갈림.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 237개 중 작다 22 · 정사이즈 28 · 크다 39",
    "productType": "top hat",
    "materials": [
     "felt",
@@ -733,8 +733,8 @@
     "얇고 비침이 있을 수 있는 원단",
     "일부 마감 및 품질 불량"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대체로 잘 맞거나 정사이즈라는 의견이 많으나, 일부는 약간 작거나 혹은 헐렁하고 크다는 의견이 있어 사이즈 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 187개 중 작다 21 · 정사이즈 65 · 크다 6",
    "productType": "dress",
    "materials": [
     "cotton",
@@ -800,8 +800,8 @@
     "색빠짐 및 이염 문제",
     "약한 내구성 및 마감"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견과 함께 작게 나와서 한 사이즈 크게 사야 한다는 리뷰, 반대로 너무 크다는 리뷰 등 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 222개 중 작다 40 · 정사이즈 54 · 크다 5",
    "productType": "capri leggings",
    "materials": [
     "cotton blend",
@@ -858,7 +858,7 @@
     "주머니나 옷감을 걸리게 하거나 찢음"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈가 너무 작고 열쇠가 많이 들어가지 않는다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 60개 중 작다 6 · 정사이즈 1 · 크다 1",
    "productType": "key ring",
    "materials": [
     "titanium",
@@ -917,7 +917,7 @@
     "손가락 및 손목 체인이 헐겁거나 큼"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "손가락과 손목 체인이 크거나 헐겁다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 78개 중 작다 2 · 정사이즈 10 · 크다 14",
    "productType": "hand chain bracelet",
    "materials": [
     "metal",
@@ -980,8 +980,8 @@
     "버클이나 마감이 부실함",
     "불쾌한 냄새가 남"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 폰은 잘 맞고 넉넉하다고 한 반면, 폰 케이스를 끼우면 안 들어가거나 작다는 의견이 있어 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 102개 중 작다 2 · 정사이즈 12 · 크다 0",
    "productType": "crossbody phone purse",
    "materials": [
     "leather",
@@ -1046,7 +1046,7 @@
     "내부 마감 및 박음질 불량"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "대부분의 리뷰에서 사이즈가 적당하거나 휴대폰과 카드 수납에 알맞다고 언급되었습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 108개 중 작다 3 · 정사이즈 5 · 크다 0",
    "productType": "crossbody bag",
    "materials": [
     "leather",
@@ -1104,8 +1104,8 @@
     "물병 포켓이 너무 작음",
     "내구성 및 마감 아쉬움"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "설명된 치수보다 실제 크기가 작아서 노트북이나 물건이 안 들어간다는 리뷰가 많습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 133개 중 작다 5 · 정사이즈 7 · 크다 5",
    "productType": "sling bag",
    "materials": [
     "nylon"
@@ -1161,8 +1161,8 @@
     "지나치게 긴 기장",
     "얇고 비침이 있는 소재"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "신축성이 좋아 작거나 큰 사이즈를 선택했다는 의견이 공존하며, 체형에 따라 정사이즈가 아니라는 평과 한 사이즈 작거나 크게 입었다는 리뷰가 모두 존재합니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 143개 중 작다 17 · 정사이즈 39 · 크다 7",
    "productType": "maxi dress",
    "materials": [
     "glitter",
@@ -1230,8 +1230,8 @@
     "광고된 수량보다 적게 배송됨",
     "사진과 다른 디자인의 제품이 옴"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "사이즈가 너무 크지도 작지도 않고 잘 맞으며 14가구와 16가구로 구성되어 있다는 리뷰가 있습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 23개 중 작다 1 · 정사이즈 0 · 크다 0",
    "productType": "body jewelry",
    "materials": [
     "stainless steel",
@@ -1291,8 +1291,8 @@
     "사이즈 선택이 까다로움",
     "일부 피부 자극 및 감염 발생"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "일부 고객은 너무 작거나 타이트하다고 한 반면, 다른 고객은 너무 크다고 하여 사이즈 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 105개 중 작다 11 · 정사이즈 18 · 크다 14",
    "productType": "hoop earrings",
    "materials": [
     "surgical steel",
@@ -1349,8 +1349,8 @@
     "쉽게 변색되거나 도색이 벗겨짐",
     "보석이 쉽게 빠짐"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 사이즈는 너무 작고, 어떤 사이즈는 너무 크거나 크기가 제각각이라는 리뷰가 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 45개 중 작다 3 · 정사이즈 7 · 크다 5",
    "productType": "ring",
    "materials": [
     "sterling silver",
@@ -1406,8 +1406,8 @@
     "입을수록 늘어나거나 커지는 경향",
     "사이즈 편차 및 불일치"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견이 많으나, 일부 리뷰어들은 너무 크거나 헐렁하다고 언급하여 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 186개 중 작다 2 · 정사이즈 63 · 크다 30",
    "productType": "jean shorts",
    "materials": [
     "denim",
@@ -1465,8 +1465,8 @@
     "쉽게 고장 나거나 부러지는 퀄리티",
     "착용 시 통증 및 자극 유발"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈가 작아서 꽉 맞거나 너무 작았다는 리뷰가 많습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 113개 중 작다 7 · 정사이즈 16 · 크다 9",
    "productType": "nose ring",
    "materials": [
     "stainless steel"
@@ -1522,8 +1522,8 @@
     "나사가 풀리거나 빠짐",
     "메탈 링이 두껍거나 스트랩이 작음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 언급 대신 스트랩(고리) 크기가 작아서 손가락이 잘 안 들어간다는 의견이 있습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 36개 중 작다 1 · 정사이즈 1 · 크다 5",
    "productType": "keychain",
    "materials": [
     "leather",
@@ -1582,8 +1582,8 @@
     "허리밴드 말림 현상",
     "내구성 부족 및 쉽게 찢어짐"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견이 많으나, 일부는 크거나 작다고 느껴 사이즈 다운 또는 업을 추천하는 혼재된 의견이 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 101개 중 작다 22 · 정사이즈 23 · 크다 5",
    "productType": "leggings",
    "materials": [
     "nylon",
@@ -1649,7 +1649,7 @@
     "버클 해제 및 조작이 다소 어렵고 설명서가 부족함"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "직접 길이를 잘라서 체형에 맞게 조절하는 방식이며, 치수에 맞게 잘라서 완벽하게 맞출 수 있음",
+   "sizeEvidence": "사이즈 언급 리뷰 61개 중 작다 1 · 정사이즈 8 · 크다 2",
    "productType": "belt",
    "materials": [
     "leather"
@@ -1705,8 +1705,8 @@
     "사이즈가 작거나 크다는 편차가 있음",
     "포켓 위치나 수납에 대한 아쉬움"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견과 함께 작거나 크다는 리뷰가 엇갈려 혼재되어 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 98개 중 작다 7 · 정사이즈 25 · 크다 4",
    "productType": "skort",
    "materials": [
     "polyester"
@@ -1765,7 +1765,7 @@
     "배송 시 휘어져서 옴"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "성인이 쓰기에는 너무 작고 어린이용 같다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 93개 중 작다 11 · 정사이즈 10 · 크다 6",
    "productType": "costume glasses",
    "materials": [
     "metal",
@@ -1830,7 +1830,7 @@
     "짧은 배터리 수명 및 충전 불량"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "너무 크거나 손목에 맞지 않는다는 리뷰가 있음",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 0 · 정사이즈 0 · 크다 2",
    "productType": "smartwatch",
    "materials": [
     "plastic",
@@ -1890,8 +1890,8 @@
     "화면과 다르거나 냄새가 남",
     "내구성이 약함"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "아이들에게 완벽한 사이즈라는 언급과 작고 귀엽다는 평이 다수였습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 71개 중 작다 7 · 정사이즈 3 · 크다 0",
    "productType": "crossbody purse",
    "materials": [
     "pu leather",
@@ -1954,7 +1954,7 @@
     "세탁 시 물빠짐 또는 마감 문제"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰에서 사이즈가 작게 나와서 한두 치수 크게 주문해야 한다고 언급하고 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 132개 중 작다 42 · 정사이즈 30 · 크다 6",
    "productType": "sleepwear",
    "materials": [
     "satin",
@@ -2014,8 +2014,8 @@
     "착용 시 잇몸이나 입안이 아프고 불편함",
     "내구성이 약한 저가형 플라스틱"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "성인에게는 맞지 않고 어린이와 유아 입에 맞거나 너무 작다는 리뷰가 많습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 76개 중 작다 8 · 정사이즈 7 · 크다 11",
    "productType": "costume accessories",
    "materials": [
     "plastic"
@@ -2076,8 +2076,8 @@
     "핀 빠짐 및 클립 파손 등 내구성 문제",
     "다소 무겁고 길다는 의견"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈나 핏에 대한 직접적인 언급은 없고 길이나 무게감에 대한 주관적 의견만 존재합니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 3 · 정사이즈 0 · 크다 0",
    "productType": "keychain",
    "materials": [
     "metal"
@@ -2134,8 +2134,8 @@
     "생각보다 작은 사이즈",
     "세탁 후 줄어듦 가능성"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰어들이 정사이즈보다 작거나 타이트하다고 언급하였으며, 한 사이즈 크게 주문하는 것이 좋겠다는 의견이 많습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 135개 중 작다 26 · 정사이즈 51 · 크다 5",
    "productType": "dress",
    "materials": [
     "cotton",
@@ -2198,8 +2198,8 @@
     "일부 열쇠나 키 fob에 맞지 않음",
     "녹이 쉽게 슬 수 있음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈 적합성에 대한 직접적인 언급은 없고, 제품 크기 자체가 너무 크거나 작아서 맞지 않는다는 의견이 일부 존재합니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 27개 중 작다 2 · 정사이즈 0 · 크다 1",
    "productType": "key ring",
    "materials": [
     "metal"
@@ -2253,8 +2253,8 @@
     "실밥 풀림이나 마감 등 품질 편차",
     "세탁 후 물빠짐이나 보풀 발생"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대부분 잘 맞거나 정사이즈라는 의견이 있으나, 어떤 리뷰어는 평소보다 작게 혹은 크게 주문했다고 언급하며 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 95개 중 작다 7 · 정사이즈 42 · 크다 2",
    "productType": "leggings",
    "materials": [
     "spandex",
@@ -2313,8 +2313,8 @@
     "일부 마감 및 내구성 아쉬움",
     "가죽 냄새 또는 이색 문제"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "손바닥이나 전체적인 사이즈는 잘 맞거나 타이트하다는 평이 있으나, 손가락 부위가 너무 길다는 의견이 반복적으로 언급되었습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 101개 중 작다 4 · 정사이즈 44 · 크다 7",
    "productType": "gloves",
    "materials": [
     "sheepskin leather",
@@ -2373,8 +2373,8 @@
     "심한 비침",
     "불쾌한 냄새"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 이에게는 잘 맞고 길이나 품이 넉넉하다는 평이 있는 반면, 작거나 핏이 맞지 않는다는 리뷰도 있어 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 91개 중 작다 3 · 정사이즈 21 · 크다 7",
    "productType": "leggings",
    "materials": [
     "pantyhose-like fabric",
@@ -2434,8 +2434,8 @@
     "피부나 가구에 색이 묻어나는 이염 문제",
     "쉽게 먼지나 반려동물 털이 붙는 소재"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견과 허리나 전체적인 핏이 크거나 작다는 의견이 골고루 섞여 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 105개 중 작다 5 · 정사이즈 31 · 크다 8",
    "productType": "yoga pants",
    "materials": [
     "spandex",
@@ -2498,8 +2498,8 @@
     "구김이 잘 가고 다림질이 어려움",
     "소재가 빳빳하고 불편할 수 있음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "사이즈가 잘 맞고 조절이 가능하다는 평과 함께 너무 작거나 프리텐 또는 체구가 작은 사람에게 맞을 정도로 작다는 의견이 엇갈림",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 68개 중 작다 4 · 정사이즈 13 · 크다 2",
    "productType": "fake collar",
    "materials": [
     "cotton"
@@ -2560,8 +2560,8 @@
     "일부 제품 마감 불량 및 구멍",
     "까슬거리는 소재 느낌"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대체로 잘 맞거나 신축성이 좋다는 의견이 많지만, 한 사이즈 작게 사거나 크게 사서 후회했다는 등 사이즈에 대한 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 91개 중 작다 14 · 정사이즈 27 · 크다 12",
    "productType": "leggings",
    "materials": [
     "synthetic"
@@ -2623,8 +2623,8 @@
     "사진보다 작은 보관함 크기",
     "원하지 않는 게이지나 종류가 섞여 있음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈나 핏에 대한 평가가 아니라 피어싱 게이지 및 구성품 수량에 대한 언급만 있습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 29개 중 작다 1 · 정사이즈 1 · 크다 0",
    "productType": "body jewelry kit",
    "materials": [
     "plastic",
@@ -2678,8 +2678,8 @@
     "시간이 지나면서 뒷면 QR 코드가 지워지거나 스캔이 어려워짐",
     "일부 시계 밴드 규격에 맞지 않거나 장착이 어려움"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "일부 사용자에게는 잘 맞고 편안하지만, 어떤 밴드에는 너무 좁거나 맞지 않는다는 의견이 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 52개 중 작다 3 · 정사이즈 14 · 크다 0",
    "productType": "medical id sleeve",
    "materials": [
     "silicone"
@@ -2727,8 +2727,8 @@
     "떨어지는 마감 및 시퀸/장식 탈락",
     "까슬거리거나 불편한 착용감"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대체로 잘 맞거나 정사이즈라는 평이 많으나, 작거나 좁다는 의견과 너무 크다는 의견이 섞여 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 66개 중 작다 4 · 정사이즈 26 · 크다 2",
    "productType": "dancewear",
    "materials": [
     "tulle",
@@ -2791,8 +2791,8 @@
     "너무 높게 올라오는 앞트임 슬릿",
     "마감 및 실밥 문제"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "작게 나와서 보통 한두 사이즈 크게 주문했다는 리뷰가 많음",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 121개 중 작다 20 · 정사이즈 29 · 크다 12",
    "productType": "dress",
    "materials": [
     "sequin",
@@ -2860,8 +2860,8 @@
     "체형에 따라 너무 작거나 조이는 사이즈",
     "일부 제품의 화학 냄새 또는 품질 편차"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "처음에는 아이 옷처럼 보일 정도로 작아 보이지만 늘어나서 잘 맞다는 의견이 많으나, 반대로 너무 작아서 맞지 않는다는 평과 프리 사이즈가 너무 작다는 리뷰도 있어 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 73개 중 작다 6 · 정사이즈 15 · 크다 4",
    "productType": "leggings",
    "materials": [
     "fleece",
@@ -2924,8 +2924,8 @@
     "색이 변색되거나 녹이 믐",
     "사이즈가 너무 작거나 크다는 의견이 있음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 리뷰어는 너무 작거나 꽉 맞는다고 하고, 다른 리뷰어는 너무 크다고 하여 의견이 갈립니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 75개 중 작다 13 · 정사이즈 10 · 크다 1",
    "productType": "septum jewelry",
    "materials": [
     "surgical steel",
@@ -2982,7 +2982,7 @@
     "작동하지 않는 시계 또는 금방 고장남"
    ],
    "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 언급은 없고 다만 예상보다 작거나 체인 길이에 대한 언급만 존재합니다.",
+   "sizeEvidence": "사이즈를 판단할 만한 리뷰가 없어요",
    "productType": "necklace watch",
    "materials": [
     "metal"
@@ -3041,7 +3041,7 @@
     "체형에 따라 맞지 않는 허리 및 팔 기장"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "대부분의 리뷰어가 평소 입는 사이즈가 잘 맞는다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 121개 중 작다 8 · 정사이즈 51 · 크다 9",
    "productType": "dress",
    "materials": [
     "lace",
@@ -3106,7 +3106,7 @@
     "어색한 Y존 부각"
    ],
    "sizeFit": "mixed",
-   "sizeEvidence": "어떤 이들은 너무 크거나 작다고 하고, 어떤 이들은 정사이즈라고 하는 등 사이즈에 대한 의견이 엇갈립니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 112개 중 작다 15 · 정사이즈 20 · 크다 16",
    "productType": "yoga pants",
    "materials": [
     "thin fabric"
@@ -3167,8 +3167,8 @@
     "소재가 얇고 비침이 있음",
     "마감이나 박음질이 아쉬움"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대체로 잘 맞거나 여유롭다는 평이 많으나 작게 느껴진다는 의견도 존재함",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 83개 중 작다 8 · 정사이즈 31 · 크다 2",
    "productType": "costume dress",
    "materials": [
     "polyester"
@@ -3232,7 +3232,7 @@
     "일부 소재의 까슬거림"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰어가 사이즈가 매우 작게 나와서 평소보다 한 두 치수 크게 주문해야 했다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 119개 중 작다 34 · 정사이즈 33 · 크다 6",
    "productType": "costume dress",
    "materials": [
     "fabric",
@@ -3286,8 +3286,8 @@
     "일부 체형에 맞지 않는 스커트 핏이나 가슴 부위 조임",
     "간헐적인 마감 불량 및 사이즈 혼선"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대부분 리뷰에서 한 사이즈 크게 주문하여 잘 맞았다는 평이 많으나, 간혹 너무 크거나 작다는 의견도 있어 사이즈에 대한 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 114개 중 작다 24 · 정사이즈 35 · 크다 8",
    "productType": "dress",
    "materials": [
     "lace",
@@ -3353,7 +3353,7 @@
     "생각보다 크기가 작거나 좁음"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "많은 리뷰어들이 생각보다 가방이 작거나 입구가 좁다고 언급함",
+   "sizeEvidence": "사이즈 언급 리뷰 51개 중 작다 9 · 정사이즈 0 · 크다 2",
    "productType": "crossbody bag",
    "materials": [
     "genuine leather",
@@ -3416,7 +3416,7 @@
     "세탁 후 보풀이나 변형 우려"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰어들이 평소보다 한 치수 또는 두 치수 크게 주문해야 잘 맞거나 작지 않다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 117개 중 작다 42 · 정사이즈 17 · 크다 4",
    "productType": "dress",
    "materials": [
     "polyester",
@@ -3478,8 +3478,8 @@
     "음질이 안 좋고 소리가 큼",
     "가격에 비해 품질이 떨어짐"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 언급이 없습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 11개 중 작다 0 · 정사이즈 0 · 크다 1",
    "productType": "pocket watch",
    "materials": [
     "plastic",
@@ -3533,8 +3533,8 @@
     "일부 제품의 내구성 부족으로 파손됨",
     "다소 무겁고 크기가 큼"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 27개 중 작다 1 · 정사이즈 0 · 크다 3",
    "productType": "keychain",
    "materials": [
     "zinc alloy"
@@ -3587,8 +3587,8 @@
     "쉽게 빠지거나 끊어지는 시계 줄과 핀",
     "내구성이 부족하고 방수가 잘 되지 않음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "리뷰에서 시계의 사이즈가 작거나 크다는 평가는 있었으나 전반적인 사이즈 적합성에 대한 통일된 언급은 없습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 22개 중 작다 1 · 정사이즈 2 · 크다 1",
    "productType": "watch",
    "materials": [
     "silicone",
@@ -3641,7 +3641,7 @@
     "마감 아쉬움"
    ],
    "sizeFit": "unknown",
-   "sizeEvidence": "",
+   "sizeEvidence": "사이즈를 판단할 만한 리뷰가 없어요",
    "productType": "pocket watch",
    "materials": [
     "plastic",
@@ -3700,8 +3700,8 @@
     "가슴이나 어깨가 낀다는 의견 있음",
     "소재가 다소 무겁게 느껴짐"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "사이즈가 잘 맞고 정확하다는 리뷰와 함께, 크거나 작아서 한 사이즈 작게 또는 크게 주문해야 했다는 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 90개 중 작다 13 · 정사이즈 28 · 크다 8",
    "productType": "dress",
    "materials": [
     "lace",
@@ -3765,8 +3765,8 @@
     "사이즈가 너무 작음",
     "쉽게 찢어지거나 흘러내림"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "일반적인 성인 여성에게 너무 작으며 마른 사람이나 아이들에게 맞는다는 리뷰와 손이 안 들어간다는 리뷰가 많습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 49개 중 작다 5 · 정사이즈 14 · 크다 1",
    "productType": "gloves",
    "materials": [
     "satin",
@@ -3828,8 +3828,8 @@
     "사이즈가 큼",
     "배송 시 구김이 심함"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "대다수의 리뷰어들이 정사이즈보다 크거나 여유가 있다고 언급하며 한 사이즈 작게 사는 것을 추천함.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 81개 중 작다 10 · 정사이즈 33 · 크다 5",
    "productType": "dress",
    "materials": [
     "lace",
@@ -3899,8 +3899,8 @@
     "일부 마감 및 지퍼 내구성 문제",
     "스트랩이 꼬이거나 불편함"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈가 크다는 의견과 적당하다는 의견이 섞여 있으나 구체적인 치수 평가는 언급되지 않음.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 52개 중 작다 2 · 정사이즈 0 · 크다 3",
    "productType": "crossbody bag",
    "materials": [
     "steel mesh",
@@ -3961,7 +3961,7 @@
     "저렴한 소재와 마감 문제"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "3XL를 주문했음에도 미국 기준 소형이나 아동용 크기로 느껴질 정도로 매우 작게 나왔다는 리뷰가 대다수입니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 116개 중 작다 30 · 정사이즈 4 · 크다 0",
    "productType": "tank top",
    "materials": [
     "nylon",
@@ -4021,8 +4021,8 @@
     "내구성이 부족하고 쉽게 망가짐",
     "피부 자극이나 발진 발생 가능성"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈가 작게 나와서 타이트하거나 한 사이즈 크게 주문해야 한다는 리뷰가 존재합니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 66개 중 작다 7 · 정사이즈 27 · 크다 0",
    "productType": "ring",
    "materials": [
     "silicone",
@@ -4081,7 +4081,7 @@
     "유리 대신 플라스틱 소재 사용"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "시계가 크고 줄을 줄여야 했다는 리뷰가 반복적으로 언급됩니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 28개 중 작다 2 · 정사이즈 1 · 크다 3",
    "productType": "wooden watch",
    "materials": [
     "wood",
@@ -4145,8 +4145,8 @@
     "나사가 꽉 조여있거나 열리지 않는 제품 존재",
     "볼이 쉽게 풀리거나 내구성이 아쉬움"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 일관된 평가나 정사이즈 여부에 대한 언급이 부족하고, 개인 취향에 따라 크기가 크거나 길다는 의견이 혼재되어 있습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 3 · 정사이즈 0 · 크다 2",
    "productType": "tongue rings",
    "materials": [
     "surgical steel",
@@ -4201,8 +4201,8 @@
     "글자가 떨어지거나 날카로움",
     "손가락이 초록색으로 변함"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "조절 가능하여 잘 맞진다는 의견이 있으나, 너무 크거나 너무 작다는 의견이 혼재함",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 1 · 정사이즈 0 · 크다 2",
    "productType": "ring",
    "materials": [
     "copper",
@@ -4262,8 +4262,8 @@
     "사이즈가 작거나 맞기 힘듦",
     "시간이 잘 안 맞거나 고장 우려"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "시계가 작게 나왔다는 리뷰와 손목이 굵은 사람에게 맞지 않거나 11세 아이에게 맞다는 언급이 있습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 20개 중 작다 1 · 정사이즈 2 · 크다 3",
    "productType": "watch",
    "materials": [
     "stainless steel",
@@ -4322,7 +4322,7 @@
     "저렴해 보이고 약한 재질"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "시계 줄이 너무 커서 링을 줄이거나 남성용 크기 같다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 47개 중 작다 1 · 정사이즈 1 · 크다 14",
    "productType": "watch",
    "materials": [
     "stainless steel",
@@ -4384,8 +4384,8 @@
     "시계를 걸기 다소 좁거나 어려운 구조",
     "생각보다 크기가 작음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 직접적인 의류 사이즈 언급은 없으나 제품 크기가 생각보다 작다는 평이 있음",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 22개 중 작다 2 · 정사이즈 1 · 크다 0",
    "productType": "display dome",
    "materials": [
     "glass",
@@ -4440,8 +4440,8 @@
     "심한 화학 냄새",
     "켜기 뻑뻑한 스위치"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 언급은 없으나 아이들과 트위들에게 잘 맞고 달걀이나 피나타에 넣기 좋다는 언급이 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 14개 중 작다 0 · 정사이즈 1 · 크다 0",
    "productType": "party favor ring",
    "materials": [
     "silicone",
@@ -4502,8 +4502,8 @@
     "사이즈가 너무 작거나 크다는 의견 존재",
     "일부 제품의 누락 또는 파손"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "일부 리뷰어는 잘 맞다고 한 반면, 다른 리뷰어들은 너무 작거나 크다고 언급하여 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 38개 중 작다 4 · 정사이즈 5 · 크다 2",
    "productType": "nose ring",
    "materials": [
     "metal",
@@ -4562,8 +4562,8 @@
     "생각보다 너무 작음",
     "보석이 빠져 있거나 변색됨"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "많은 리뷰어들이 피어싱이 생각보다 너무 작고 코나 귀에 꽉 낀다고 언급했습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 47개 중 작다 4 · 정사이즈 6 · 크다 0",
    "productType": "piercing ring",
    "materials": [
     "stainless steel",
@@ -4621,8 +4621,8 @@
     "애매하거나 헐렁한 핏",
     "통기성 부족"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "많은 리뷰어들이 S/M 사이즈가 예상보다 크거나 헐렁하다고 언급했습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 74개 중 작다 8 · 정사이즈 18 · 크다 10",
    "productType": "leggings",
    "materials": [
     "synthetic"
@@ -4684,7 +4684,7 @@
     "쉽게 고장나거나 마감이 부실함"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "대다수의 리뷰에서 시계가 너무 크고 손목에 맞지 않으며 조절할 수 없다고 언급하고 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 33개 중 작다 1 · 정사이즈 0 · 크다 8",
    "productType": "watch",
    "materials": [
     "stainless steel",
@@ -4748,8 +4748,8 @@
     "세탁 시 줄어듦",
     "예전 군용 제품에 비해 아쉬움"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "처음에는 작아 보이지만 늘어난다는 의견과 너무 작거나 크다는 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 31개 중 작다 4 · 정사이즈 9 · 크다 0",
    "productType": "beanie",
    "materials": [
     "wool"
@@ -4807,7 +4807,7 @@
     "간혹 검은 가루나 이물질이 묻어 있음"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "판도라 팔찌 등에 잘 맞고 완벽하게 호환된다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 20개 중 작다 0 · 정사이즈 5 · 크다 0",
    "productType": "charm stoppers",
    "materials": [
     "silver",
@@ -4862,8 +4862,8 @@
     "은색 도색이 벗겨짐",
     "손가락이 초록색이나 갈색으로 변색됨"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "대부분의 리뷰에서 반지가 크게 나와서 엄지나 검지에 끼거나 크기를 조절해야 했다고 언급되었습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 31개 중 작다 0 · 정사이즈 5 · 크다 3",
    "productType": "ring",
    "materials": [
     "metal",
@@ -4921,7 +4921,7 @@
     "내구성이 약해 쉽게 부러짐"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 사이즈가 너무 작아서 손가락에 맞지 않고 아이들이나 낀다는 의견이 압도적임.",
+   "sizeEvidence": "사이즈 언급 리뷰 64개 중 작다 17 · 정사이즈 3 · 크다 2",
    "productType": "ring set",
    "materials": [
     "metal",
@@ -4979,8 +4979,8 @@
     "하드웨어 색상이나 마감이 아쉬울 수 있음",
     "배송된 제품 상태에 대한 편차"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈나 핏에 대한 일관된 평가가 없어 알 수 없습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 7개 중 작다 0 · 정사이즈 1 · 크다 1",
    "productType": "bag strap",
    "materials": [
     "leather",
@@ -5034,7 +5034,7 @@
     "저렴해 보이는 재질"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "많은 리뷰에서 링의 크기와 두께(게이지)가 너무 크거나 두꺼워서 코나 귀 피어싱에 맞지 않는다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 52개 중 작다 3 · 정사이즈 2 · 크다 19",
    "productType": "body piercing jewelry",
    "materials": [
     "metal"
@@ -5089,7 +5089,7 @@
     "옷이나 피부에 긁힘 및 올 풀림 발생"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "반지, 팔찌, 초커 목걸이가 너무 작거나 조여서 착용하기 힘들다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 38개 중 작다 6 · 정사이즈 4 · 크다 0",
    "productType": "jewelry set",
    "materials": [
     "crystal",
@@ -5154,8 +5154,8 @@
     "착용 시 앞으로 흘러내림",
     "얇고 흐물거리는 소재"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈가 작거나 크다는 정사이즈 관련 언급 대신 수납 공간의 크기나 전체적인 부피감에 대한 주관적인 의견만 존재합니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 44개 중 작다 4 · 정사이즈 0 · 크다 1",
    "productType": "sling bag",
    "materials": [
     "fabric",
@@ -5215,8 +5215,8 @@
     "조절 및 사용이 어려움",
     "내구성 부족 및 마감 불량"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "작은 사이즈를 주문했음에도 조절을 최대로 해도 크거나, 29-30 혹은 2 사이즈인 사람에게 너무 크다는 리뷰가 있습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 32개 중 작다 1 · 정사이즈 2 · 크다 3",
    "productType": "belt",
    "materials": [
     "elastic",
@@ -5270,7 +5270,7 @@
     "단추가 잘 풀림"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 상의와 소매, 전체적인 사이즈가 매우 작게(작아서 아동용 같거나 꽉 낀다고) 나왔다고 언급하며 한두 사이즈 크게 주문할 것을 권장하고 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 80개 중 작다 39 · 정사이즈 7 · 크다 2",
    "productType": "pajama set",
    "materials": [
     "cotton",
@@ -5326,7 +5326,7 @@
     "세탁 후 줄어듦 및 저렴한 품질"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰어가 제품이 작고 짧게 나왔다고 언급하며, 한 치수 이상 크게 주문해야 했다고 말함.",
+   "sizeEvidence": "사이즈 언급 리뷰 63개 중 작다 15 · 정사이즈 6 · 크다 2",
    "productType": "blouse",
    "materials": [
     "fabric",
@@ -5387,7 +5387,7 @@
     "착용 및 나사 조임이 어려움"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "보석과 바벨이 너무 작아서 피어싱 구멍으로 빠져나간다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 34개 중 작다 1 · 정사이즈 1 · 크다 0",
    "productType": "lip ring",
    "materials": [
     "steel"
@@ -5442,8 +5442,8 @@
     "쉽게 올이 나가거나 찢어짐",
     "화학약품 냄새"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "사이즈가 잘 맞다는 의견과 너무 작거나 크다는 의견이 엇갈림",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 52개 중 작다 4 · 정사이즈 14 · 크다 2",
    "productType": "leggings",
    "materials": [
     "polyester"
@@ -5504,8 +5504,8 @@
     "가슴 옆태(사이드 부)가 많이 노출됨",
     "컵 사이가 너무 좁음"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 가슴이 큰 사람에게는 작고, C컵이나 D컵 이상인 경우 측면 가슴 노출이 심하거나 맞지 않는다고 언급함.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 72개 중 작다 6 · 정사이즈 12 · 크다 3",
    "productType": "bralette",
    "materials": [
     "fabric"
@@ -5565,8 +5565,8 @@
     "일부 제품의 내구성 및 고장 문제",
     "줄 조절이 어려움"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "손목에 잘 맞는다는 의견과 컸기 때문에 줄여야 했다는 의견이 혼재되어 있습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 19개 중 작다 0 · 정사이즈 2 · 크다 4",
    "productType": "watch",
    "materials": [
     "stainless steel",
@@ -5629,7 +5629,7 @@
     "사용 설명이 부족하거나 어려움"
    ],
    "sizeFit": "unknown",
-   "sizeEvidence": "시계 와인더라 의류 사이즈에 대한 언급이 없습니다.",
+   "sizeEvidence": "사이즈를 판단할 만한 리뷰가 없어요",
    "productType": "watch winder",
    "materials": [
     "plastic"
@@ -5680,8 +5680,8 @@
     "짧은 배터리 수명",
     "배송 시 파손 또는 결함 상품 존재"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 언급이 없습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 7개 중 작다 1 · 정사이즈 0 · 크다 0",
    "productType": "pocket watch",
    "materials": [
     "silicone"
@@ -5742,7 +5742,7 @@
     "블랙헤드처럼 보이거나 생각보다 눈에 띌 수 있음"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "사이즈가 잘 맞고 딱 알맞다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 22개 중 작다 3 · 정사이즈 5 · 크다 2",
    "productType": "nose ring",
    "materials": [
     "bioflex",
@@ -5803,8 +5803,8 @@
     "생각보다 작은 사이즈",
     "박음질 풀림 및 부품 탈락"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "수납력이 좋고 적당하다는 평과 기대보다 너무 작거나 크다는 평이 엇갈립니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 46개 중 작다 4 · 정사이즈 0 · 크다 1",
    "productType": "crossbody bag",
    "materials": [
     "leather"
@@ -5865,7 +5865,7 @@
     "까슬거리거나 불편한 봉제선"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "대부분의 리뷰어가 정사이즈로 잘 맞거나 사이즈 표가 정확하다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 62개 중 작다 2 · 정사이즈 23 · 크다 4",
    "productType": "leggings",
    "materials": [
     "spandex",
@@ -5932,8 +5932,8 @@
     "다소 복잡한 사용법",
     "사용 설명서 부재"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈가 크다는 언급은 있으나 핏에 대한 명확한 평가는 없습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 18개 중 작다 2 · 정사이즈 1 · 크다 0",
    "productType": "watch",
    "materials": [
     "stainless steel",
@@ -5985,8 +5985,8 @@
     "내구성 및 품질 문제",
     "완벽하지 않은 태양광 충전"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "시계가 너무 크고 두껍다는 리뷰가 반복적으로 언급됩니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 24개 중 작다 1 · 정사이즈 0 · 크다 1",
    "productType": "watch",
    "materials": [
     "plastic",
@@ -6046,8 +6046,8 @@
     "불편하고 조이는 얇은 허리 밴드",
     "품질 및 마감 불량"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 이에게는 크거나 잘 맞지만, 허리가 너무 조이거나 기장이 길고 짧은 등 사이즈와 핏에 대한 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 37개 중 작다 5 · 정사이즈 7 · 크다 4",
    "productType": "leggings",
    "materials": [
     "brushed fabric"
@@ -6107,8 +6107,8 @@
     "내구성 부족으로 인한 파손",
     "설명과 다른 너비"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "길이가 성인에게 다소 짧거나 예상보다 좁다는 의견과 크기가 적당하다는 의견이 엇갈립니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 11개 중 작다 1 · 정사이즈 1 · 크다 0",
    "productType": "bag strap",
    "materials": [
     "leather",
@@ -6160,8 +6160,8 @@
     "내구성이 약한 버클과 마감",
     "손목이 굵은 사람에게는 작은 시곗줄"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "시곗줄이 짧아서 손목이 두꺼운 사람에게는 마지막 구멍에 겨우 맞거나 잘 맞지 않는다는 리뷰가 많습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 15개 중 작다 0 · 정사이즈 1 · 크다 1",
    "productType": "watch",
    "materials": [
     "leather",
@@ -6223,7 +6223,7 @@
     "시계 바늘이 헐거워짐"
    ],
    "sizeFit": "unknown",
-   "sizeEvidence": "",
+   "sizeEvidence": "사이즈를 판단할 만한 리뷰가 없어요",
    "productType": "clip on watch",
    "materials": [
     "metal",
@@ -6278,7 +6278,7 @@
     "애매하거나 이상한 상단/배꼽 부위 핏"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "많은 리뷰어들이 사이즈가 작게 나와서 입기 힘들며 한 사이즈 크게 주문해야 한다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 53개 중 작다 12 · 정사이즈 9 · 크다 5",
    "productType": "compression leggings",
    "materials": [
     "microfiber",
@@ -6340,7 +6340,7 @@
     "체형에 따라 부해 보일 수 있음"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "대부분의 리뷰어가 제품이 넉넉하거나 크게 나왔다고 언급하며 평소보다 작은 사이즈를 추천함.",
+   "sizeEvidence": "사이즈 언급 리뷰 57개 중 작다 4 · 정사이즈 10 · 크다 14",
    "productType": "blouse",
    "materials": [
     "polyester",
@@ -6405,7 +6405,7 @@
     "신축성이 부족하다는 평이 있음"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰에서 프리사이즈임에도 불구하고 너무 작아서 S나 M 사이즈 또는 청소년에게만 맞으며 입기 힘들다고 언급함.",
+   "sizeEvidence": "사이즈 언급 리뷰 61개 중 작다 14 · 정사이즈 5 · 크다 0",
    "productType": "leggings",
    "materials": [
     "velvet",
@@ -6459,8 +6459,8 @@
     "일부 마감 및 정전기 문제",
     "소재가 너무 무겁거나 더울 수 있음"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "대부분의 리뷰에서 넉넉하거나 크다고 언급하였으며, 'Runs a bit large', 'It was huge' 등의 표현이 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 35개 중 작다 2 · 정사이즈 10 · 크다 5",
    "productType": "sleep shirt",
    "materials": [
     "fleece"
@@ -6516,8 +6516,8 @@
     "얇고 저렴한 느낌의 소재",
     "마감 품질 문제"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈가 작거나 타이트하다는 리뷰가 다수 존재합니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 52개 중 작다 9 · 정사이즈 11 · 크다 2",
    "productType": "blouse",
    "materials": [],
    "seasons": [
@@ -6574,7 +6574,7 @@
     "소재가 얇거나 빳빳함"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 2XL 사이즈도 매우 작거나 어깨와 팔뚝이 꽉 낀다고 언급하며, 실제 사이즈보다 훨씬 작게 나옴.",
+   "sizeEvidence": "사이즈 언급 리뷰 64개 중 작다 24 · 정사이즈 5 · 크다 2",
    "productType": "kimono cardigan",
    "materials": [
     "chiffon"
@@ -6634,8 +6634,8 @@
     "세탁 후 보풀이나 올 풀림 발생",
     "리본이 쉽게 떨어짐"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "많은 리뷰에서 사이즈가 너무 크거나 길다고 언급함.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 45개 중 작다 4 · 정사이즈 9 · 크다 5",
    "productType": "baby tights",
    "materials": [
     "cotton"
@@ -6693,7 +6693,7 @@
     "시곗줄이 너무 작음"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "시곗줄이 너무 작다는 리뷰가 여러 개 존재합니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 8개 중 작다 3 · 정사이즈 0 · 크다 1",
    "productType": "smartwatch",
    "materials": [
     "plastic",
@@ -6747,8 +6747,8 @@
     "배송이 오래 걸림",
     "종이처럼 얇거나 쉽게 망가짐"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 리뷰에서는 너무 작거나 마른 사람에게만 맞는다고 한 반면, 다른 리뷰에서는 크고 쉽게 늘어난다고 하여 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 36개 중 작다 2 · 정사이즈 7 · 크다 1",
    "productType": "leg warmers",
    "materials": [
     "knit",
@@ -6808,8 +6808,8 @@
     "사진보다 지나치게 어두운 우드 색상",
     "내구성 부족 및 쉽게 고장남"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "사이즈가 작거나 크다는 불만 대신 약간 타이트하다는 언급만 소수 존재하여 정사이즈로 분류함",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 7개 중 작다 1 · 정사이즈 0 · 크다 0",
    "productType": "watch",
    "materials": [
     "leather",
@@ -6872,8 +6872,8 @@
     "스트랩(밴드) 내구성 부족",
     "시간이 느려짐"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "성인용 사이즈처럼 크다는 리뷰와 마지막 구멍에 채워야 했다는 의견이 있습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 11개 중 작다 1 · 정사이즈 1 · 크다 0",
    "productType": "girl watch",
    "materials": [
     "leather",
@@ -6932,8 +6932,8 @@
     "세탁 시 허리 밴드가 꼬임",
     "키가 큰 사람에게는 기장이 짧음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 이에게는 넉넉하고 잘 맞지만, 키가 크거나 사이즈가 큰 사람에게는 작거나 짧다는 의견과 허리가 타이트하다는 의견 등 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 44개 중 작다 3 · 정사이즈 18 · 크다 4",
    "productType": "yoga pants",
    "materials": [
     "cotton"
@@ -6995,7 +6995,7 @@
     "가죽 냄새나 냄새 관련 불만"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "일부 리뷰에서 생각보다 작거나 폰이 안 들어간다는 의견이 있고, 작아서 놀랐다는 언급이 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 41개 중 작다 2 · 정사이즈 0 · 크다 0",
    "productType": "crossbody bag",
    "materials": [
     "leather",
@@ -7051,8 +7051,8 @@
     "세탁 시 보풀 발생",
     "유독한 냄새가 남"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대체로 잘 맞거나 정사이즈라는 의견이 많으나, 신축성이나 체형에 따라 크거나 작게 느껴진다는 혼재된 의견이 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 33개 중 작다 1 · 정사이즈 12 · 크다 1",
    "productType": "leggings",
    "materials": [
     "fleece",
@@ -7113,7 +7113,7 @@
     "사진과 다른 길이 및 형태"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰어가 평소보다 1~2 사이즈 크게 주문했음에도 불구하고 작거나 타이트하다고 언급함.",
+   "sizeEvidence": "사이즈 언급 리뷰 66개 중 작다 24 · 정사이즈 9 · 크다 0",
    "productType": "blouse",
    "materials": [
     "spandex",
@@ -7175,8 +7175,8 @@
     "색상에 따라 비침이 있거나 땀이 잘 보임",
     "사이즈 편차가 있거나 작게 나옴"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대부분 잘 맞거나 정사이즈라는 의견이 많으나, 일부는 작거나 크다고 느낌",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 48개 중 작다 3 · 정사이즈 15 · 크다 1",
    "productType": "leggings",
    "materials": [
     "cotton",
@@ -7239,8 +7239,8 @@
     "자석 단추가 약하다는 평",
     "사진보다 작게 느껴질 수 있음"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "필수품을 넣기 좋은 적당한 크기라는 평이 많으나 사진보다 작게 느껴진다는 의견도 있음.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 32개 중 작다 5 · 정사이즈 0 · 크다 1",
    "productType": "clear crossbody bag",
    "materials": [
     "plastic",
@@ -7297,7 +7297,7 @@
     "거울 파손 및 협소한 수납 공간"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "대체로 아이폰 플러스 기종과 카드 등이 잘 들어맞는다는 평이 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 27개 중 작다 0 · 정사이즈 4 · 크다 1",
    "productType": "crossbody bag",
    "materials": [
     "microfiber leather",
@@ -7354,8 +7354,8 @@
     "조절 장치나 박음질 등 내구성 부족",
     "지퍼나 스트랩의 완성도 아쉬움"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "사이즈가 너무 크거나 작지 않고 적당하며, 필요한 물건이 알맞게 들어간다는 리뷰가 많습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 30개 중 작다 1 · 정사이즈 0 · 크다 2",
    "productType": "crossbody bag",
    "materials": [
     "nylon"
@@ -7409,7 +7409,7 @@
     "상하의 불균형한 핏"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰에서 사이즈가 작게 나왔으며 특히 바지 허리 밴드가 너무 조인다고 언급되어 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 41개 중 작다 15 · 정사이즈 4 · 크다 2",
    "productType": "pajamas",
    "materials": [
     "satin",
@@ -7468,7 +7468,7 @@
     "얇고 저렴한 느낌의 소재"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰에서 평소보다 1~3사이즈 더 크게 주문했음에도 불구하고 너무 작거나 맞지 않는다고 언급하였습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 62개 중 작다 24 · 정사이즈 1 · 크다 0",
    "productType": "tank top",
    "materials": [
     "satin",
@@ -7527,8 +7527,8 @@
     "소재가 얇고 흐물거림",
     "일부 방수 기능이 아쉬움"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 일관된 평가 없이 개인에 따라 크기가 크거나 작게 느껴진다는 의견이 섞여 있습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 28개 중 작다 1 · 정사이즈 0 · 크다 0",
    "productType": "backpack",
    "materials": [
     "nylon",
@@ -7591,7 +7591,7 @@
     "내구성이 약한 박음질 및 마감"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰어가 평소보다 1~2사이즈 이상 크게 주문해야 한다고 언급하며, XL 사이즈도 미디엄이나 스몰처럼 너무 작거나 가슴 부근이 꽉 낀다고 평가했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 51개 중 작다 26 · 정사이즈 7 · 크다 0",
    "productType": "blouse",
    "materials": [
     "chiffon",
@@ -7654,8 +7654,8 @@
     "어깨의 퍼프 디자인 호불호",
     "소재 품질에 대한 아쉬움"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "작게 느껴서 한 치수 크게 샀다는 의견과 작다는 리뷰가 있는 반면, 정사이즈라는 의견과 너무 크다는 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 51개 중 작다 7 · 정사이즈 11 · 크다 7",
    "productType": "blouse",
    "materials": [
     "knit"
@@ -7718,7 +7718,7 @@
     "사진과 다르거나 마감이 아쉬움"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "많은 리뷰에서 사이즈가 작게 나왔으며 어깨와 소매가 타이트하다고 언급하며 한두 사이즈 크게 주문하라고 조언합니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 44개 중 작다 14 · 정사이즈 5 · 크다 1",
    "productType": "kimono cardigan",
    "materials": [
     "chiffon",
@@ -7781,7 +7781,7 @@
     "작고 타이트한 사이즈"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "매우 작다, 아동용 같다, 어깨와 팔이 타이트하고 사이즈가 작다는 리뷰가 반복해서 언급되었습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 25개 중 작다 4 · 정사이즈 4 · 크다 1",
    "productType": "kimono cardigan",
    "materials": [
     "polyester",
@@ -7845,8 +7845,8 @@
     "지퍼 고장 등 품질 불만",
     "생각보다 큰 크기"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 표준적인 크고 작음보다는 넉넉한 수납공간이나 너무 크거나 크다는 주관적인 의견이 섞여 있음",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 26개 중 작다 0 · 정사이즈 0 · 크다 4",
    "productType": "handbag",
    "materials": [
     "vegan leather",
@@ -7899,7 +7899,7 @@
     "가슴 및 옆구리 노출 우려"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 정사이즈보다 작게 나와서 평소보다 한두 사이즈 크게 주문해야 한다고 언급됨.",
+   "sizeEvidence": "사이즈 언급 리뷰 51개 중 작다 19 · 정사이즈 4 · 크다 0",
    "productType": "tank top",
    "materials": [
     "cotton",
@@ -7960,7 +7960,7 @@
     "생각보다 매우 작은 크기"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "생각보다 작아서 큰 스마트폰이나 지갑이 안 들어간다는 리뷰가 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 36개 중 작다 3 · 정사이즈 0 · 크다 0",
    "productType": "handbag",
    "materials": [
     "pu leather"
@@ -8018,8 +8018,8 @@
     "비치거나 까칠한 소재",
     "마감 및 품질 불만"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견과 함께 작거나 크다는 리뷰가 골고루 섞여 있으며 팔이나 상체 품에 대한 불균형 지적이 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 33개 중 작다 3 · 정사이즈 8 · 크다 4",
    "productType": "blouse",
    "materials": [
     "chiffon"
@@ -8081,8 +8081,8 @@
     "사이즈가 작거나 맞지 않음",
     "허리 밴딩이나 스트링의 아쉬움"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 이들은 정사이즈가 맞다고 하지만, 매우 작거나 반대로 너무 크다는 등 사이즈 의견이 크게 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 43개 중 작다 7 · 정사이즈 12 · 크다 4",
    "productType": "jeans",
    "materials": [
     "denim",
@@ -8147,7 +8147,7 @@
     "사이즈가 큼"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "대부분의 리뷰에서 넉넉하고 여유 있는 핏이며 정사이즈보다 크게 나왔다고 언급하고 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 33개 중 작다 3 · 정사이즈 2 · 크다 6",
    "productType": "pajama set",
    "materials": [
     "cotton"
@@ -8200,8 +8200,8 @@
     "내구성과 마감 아쉬움",
     "불편한 포장 상태로 인한 구김"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 직접적인 정사이즈/작음/큼에 대한 일관된 언급 대신 일부는 크기가 적당하다고 하고 일부는 크거나 생각보다 크다고 하여 사이즈 핏을 특정하기 어렵습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 29개 중 작다 0 · 정사이즈 1 · 크다 2",
    "productType": "messenger bag",
    "materials": [
     "nylon"
@@ -8257,8 +8257,8 @@
     "지퍼 및 안감 마감 아쉬움",
     "바삭거리는 안감 소리"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "필요한 소지품이 잘 들어가며 크기가 딱 알맞다는 평이 많습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 31개 중 작다 1 · 정사이즈 0 · 크다 2",
    "productType": "handbag",
    "materials": [
     "leather"
@@ -8314,8 +8314,8 @@
     "저렴한 마감과 재질",
     "불편한 지퍼 구조"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈가 크다는 의견과 작다는 의견이 혼재되어 있으나 신체 사이즈에 대한 직접적인 언급은 없고 수납 크기에 대한 의견만 존재합니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 1 · 정사이즈 0 · 크다 1",
    "productType": "crossbody bag",
    "materials": [
     "PU leather",
@@ -8371,8 +8371,8 @@
     "화학 냄새가 남",
     "얇고 흐물거리는 재질"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대부분 잘 맞거나 편하다고 하지만, 여러 리뷰에서 눈구멍이 작거나 얼굴에 잘 안 맞고 작다는 의견이 공존합니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 56개 중 작다 6 · 정사이즈 10 · 크다 0",
    "productType": "mask",
    "materials": [
     "lace",
@@ -8437,8 +8437,8 @@
     "부족한 신축성 및 뻣뻣함",
     "말려 올라감 현상"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대부분 잘 맞는다는 의견이 있으나, 색상별(특히 회색)로 크거나 작다는 평과 체형에 따라 작거나 헐렁하다는 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 155개 중 작다 16 · 정사이즈 38 · 크다 16",
    "productType": "leggings",
    "materials": [
     "polyester",
@@ -8501,8 +8501,8 @@
     "단추나 버클 등 부자재 탈락",
     "사이즈가 넉넉하게 나온 편"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "일부 리뷰에서 정사이즈보다 크거나 넉넉하게 나왔다고 언급되어 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 111개 중 작다 6 · 정사이즈 28 · 크다 6",
    "productType": "costume dress",
    "materials": [
     "cotton",
@@ -8566,7 +8566,7 @@
     "발목 부분이 헐거움"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "대부분의 리뷰에서 예상한 대로 잘 맞거나 정사이즈라고 언급되었습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 105개 중 작다 3 · 정사이즈 41 · 크다 4",
    "productType": "leggings",
    "materials": [
     "fleece",
@@ -8628,8 +8628,8 @@
     "끈(스트랩) 연결 부위 파손 문제",
     "일부 마감 및 품질 불량"
    ],
-   "sizeFit": "true_to_size",
-   "sizeEvidence": "너무 크지도 작지도 않으며 필수품을 넣기 딱 좋은 크기라는 평이 많습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 59개 중 작다 2 · 정사이즈 0 · 크다 0",
    "productType": "clear crossbody bag",
    "materials": [
     "plastic",
@@ -8691,7 +8691,7 @@
     "품질이 떨어지고 반품이 어려움"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "XL를 주문했는데 스몰이나 미디움처럼 맞고 사이즈가 너무 작다는 의견이 대부분입니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 91개 중 작다 32 · 정사이즈 6 · 크다 1",
    "productType": "t-shirt",
    "materials": [
     "polyester",
@@ -8754,7 +8754,7 @@
     "따뜻하지 않음"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "많은 리뷰에서 사이즈가 작거나 타이트하다고 언급하며 한두 사이즈 크게 주문하라고 조언함",
+   "sizeEvidence": "사이즈 언급 리뷰 48개 중 작다 11 · 정사이즈 6 · 크다 6",
    "productType": "hoodie",
    "materials": [
     "polyester",
@@ -8812,7 +8812,7 @@
     "짧은 길이와 밑위"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰에서 2~3사이즈 이상 크게 주문했음에도 아이들 사이즈처럼 작거나 맞지 않는다고 언급하고 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 79개 중 작다 30 · 정사이즈 2 · 크다 2",
    "productType": "leggings",
    "materials": [
     "cashmere",
@@ -8869,7 +8869,7 @@
     "사진과 다른 실물"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 평소보다 훨씬 작게 나왔다고 언급하며 한두 사이즈 크게 주문해야 한다고 함",
+   "sizeEvidence": "사이즈 언급 리뷰 61개 중 작다 13 · 정사이즈 7 · 크다 5",
    "productType": "tshirt",
    "materials": [
     "polyester",
@@ -8925,8 +8925,8 @@
     "입을수록 늘어나는 핏",
     "길이가 다소 김"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견과 함께, 잘 늘어나거나 허리가 크다는 평과 작게 사야 한다는 의견이 혼재되어 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 45개 중 작다 4 · 정사이즈 13 · 크다 4",
    "productType": "leggings",
    "materials": [
     "fleece",
@@ -8990,8 +8990,8 @@
     "일부 시계 모델과의 호환성 문제",
     "고객 서비스 응대 불만"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈나 의류 착용감과 관련된 리뷰는 존재하지 않습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 10개 중 작다 1 · 정사이즈 0 · 크다 0",
    "productType": "watch winder",
    "materials": [
     "wood"
@@ -9037,8 +9037,8 @@
     "지퍼 고장 및 소리 발생",
     "도시락 가방처럼 보일 수 있음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈가 크거나 작다는 일관된 평 대신 적당하다는 의견과 생각보다 크거나 키에 따라 다르다는 의견이 섞여 있습니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 16개 중 작다 1 · 정사이즈 0 · 크다 0",
    "productType": "crossbody bag",
    "materials": [
     "nylon",
@@ -9095,7 +9095,7 @@
     "얇거나 저렴한 느낌의 소재"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "작게 나왔다는 리뷰가 많으며 한 치수 크게 주문하거나 평소보다 작다는 의견이 다수 존재합니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 41개 중 작다 7 · 정사이즈 7 · 크다 2",
    "productType": "jeggings",
    "materials": [
     "denim",
@@ -9156,7 +9156,7 @@
     "저렴한 재질과 마감"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰에서 예상했던 것보다 훨씬 작고 아이들 장난감 가방 같다고 언급함",
+   "sizeEvidence": "사이즈 언급 리뷰 26개 중 작다 4 · 정사이즈 0 · 크다 1",
    "productType": "crossbody bag",
    "materials": [
     "pu leather",
@@ -9213,8 +9213,8 @@
     "조절형 스트랩이 고정이 잘 안되어 계속 조절해야 함",
     "내부에 결로 현상이 생길 수 있음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈가 크거나 작다는 직접적인 언급 대신 알맞은 크기라는 평이 많았으며 구체적인 치수 피팅 정보는 없음",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 25개 중 작다 0 · 정사이즈 0 · 크다 2",
    "productType": "clear crossbody purse",
    "materials": [
     "plastic"
@@ -9270,7 +9270,7 @@
     "품질이 떨어짐"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 사이즈가 너무 작거나 꽉 낀다고 언급하며 한 두 치수 크게 주문하라고 조언함",
+   "sizeEvidence": "사이즈 언급 리뷰 24개 중 작다 5 · 정사이즈 2 · 크다 1",
    "productType": "jogger pants",
    "materials": [
     "cotton",
@@ -9326,7 +9326,7 @@
     "소재가 뻣뻣하거나 거칠다는 평이 있음"
    ],
    "sizeFit": "mixed",
-   "sizeEvidence": "어떤 리뷰어는 작다고 하고 다른 리뷰어는 크다고 하는 등 사이즈에 대한 의견이 엇갈립니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 31개 중 작다 5 · 정사이즈 6 · 크다 4",
    "productType": "blouse",
    "materials": [
     "cotton"
@@ -9389,7 +9389,7 @@
     "비침이 심하고 얇은 소재"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "평소 미디엄을 입지만 XL를 주문했음에도 매우 작았고, 여러 리뷰어들이 2~4사이즈 크게 주문해야 한다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 55개 중 작다 16 · 정사이즈 2 · 크다 2",
    "productType": "blouse",
    "materials": [
     "chiffon"
@@ -9446,8 +9446,8 @@
     "흡수력이 부족하고 까칠하다는 소재 불만",
     "반품 시 배송비 부담"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 리뷰어는 너무 작거나 스너그하다고 한 반면, 다른 리뷰어는 너무 크다고 하거나 사이즈를 업해서 잘 맞았다고 하는 등 의견이 갈립니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 21개 중 작다 6 · 정사이즈 4 · 크다 3",
    "productType": "robe",
    "materials": [
     "terry cotton",
@@ -9506,8 +9506,8 @@
     "좁거나 꽉 끼는 소매",
     "마감 불량 및 실밥"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견도 있지만, 팔이 끼거나 전체적으로 너무 크거나 작다는 등 사이즈에 대한 의견이 엇갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 29개 중 작다 3 · 정사이즈 11 · 크다 0",
    "productType": "blouse",
    "materials": [
     "chiffon",
@@ -9573,7 +9573,7 @@
     "엉덩이 쪽이 이상하게 퍼지는 밑단"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰어가 작게 나왔다고 언급하며 한두 치수 크게 주문할 것을 권장함.",
+   "sizeEvidence": "사이즈 언급 리뷰 40개 중 작다 15 · 정사이즈 5 · 크다 0",
    "productType": "blouse",
    "materials": [
     "lace",
@@ -9632,7 +9632,7 @@
     "가슴과 어깨 부위의 조임"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 평소보다 2사이즈 이상 크게 주문해도 작거나 맞지 않는다고 언급하고 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 57개 중 작다 23 · 정사이즈 6 · 크다 1",
    "productType": "blouse",
    "materials": [],
    "seasons": [],
@@ -9685,7 +9685,7 @@
     "저렴한 마감과 재질"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 평소보다 사이즈가 작게 나왔으며 한두 사이즈 크게 주문해야 한다고 언급함.",
+   "sizeEvidence": "사이즈 언급 리뷰 40개 중 작다 8 · 정사이즈 7 · 크다 3",
    "productType": "tunic top",
    "materials": [
     "cotton",
@@ -9750,8 +9750,8 @@
     "저렴하고 얇은 원단",
     "사이즈가 맞지 않음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "사이즈가 잘 맞거나 정사이즈라는 의견이 많으나 상의와 하의의 크기가 안 맞거나 사이즈 범위에 맞지 않는다는 리뷰도 있음.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 23개 중 작다 5 · 정사이즈 10 · 크다 0",
    "productType": "pajamas",
    "materials": [],
    "seasons": [],
@@ -9800,8 +9800,8 @@
     "일관성 없는 사이즈",
     "기대와 다른 핏"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "사이즈가 잘 맞는다는 의견과 함께 크거나 작다는 의견, 특히 기장이나 다리 통이 너무 크다는 불만이 섞여 있어 의견이 갈립니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 35개 중 작다 3 · 정사이즈 9 · 크다 3",
    "productType": "jeans",
    "materials": [
     "denim"
@@ -9854,8 +9854,8 @@
     "쉽게 늘어나거나 흘러내림",
     "기장이 길거나 짧음"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈가 작게 나와서 평소보다 큰 사이즈를 사야 한다는 리뷰가 다수 존재합니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 36개 중 작다 5 · 정사이즈 8 · 크다 3",
    "productType": "jeggings",
    "materials": [
     "denim",
@@ -9919,7 +9919,7 @@
     "화학 냄새가 남"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "많은 고객들이 평소보다 사이즈가 작거나 미디엄처럼 느껴졌다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 22개 중 작다 8 · 정사이즈 2 · 크다 0",
    "productType": "sleepwear",
    "materials": [
     "cotton",
@@ -9973,8 +9973,8 @@
     "뻣뻣하고 거친 소재",
     "낮은 내구성"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 리뷰에서는 크거나 작다고 하고 어떤 리뷰에서는 정사이즈라고 하는 등 의견이 엇갈립니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 5 · 정사이즈 4 · 크다 2",
    "productType": "pajama pants",
    "materials": [
     "cotton"
@@ -10028,7 +10028,7 @@
     "작거나 불편한 사이즈"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈가 매우 작고 뒤쪽 여유가 없으며 한 사이즈 크게 주문해야 한다는 리뷰가 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 10개 중 작다 3 · 정사이즈 1 · 크다 0",
    "productType": "pajama pants",
    "materials": [
     "cotton"
@@ -10084,7 +10084,7 @@
     "처음에 재질이 빳빳함"
    ],
    "sizeFit": "mixed",
-   "sizeEvidence": "어떤 리뷰에서는 2XL와 사이즈 18 여성에게 잘 맞는다고 한 반면, 다른 리뷰에서는 쁘띠 여성용처럼 작거나 너무 길다고 하여 의견이 갈립니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 10개 중 작다 1 · 정사이즈 1 · 크다 1",
    "productType": "apron",
    "materials": [
     "denim",
@@ -10145,8 +10145,8 @@
     "세탁 후 기장이 많이 줄어듦",
     "까슬거리는 택과 마감 불량"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "작게 나와서 1~2 사이즈 크게 주문해야 한다는 리뷰와 세탁 후 줄어들었다는 의견이 많습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 25개 중 작다 5 · 정사이즈 6 · 크다 1",
    "productType": "pajama pants",
    "materials": [
     "fabric"
@@ -10204,7 +10204,7 @@
     "사이즈가 크거나 작다는 엇갈린 평"
    ],
    "sizeFit": "mixed",
-   "sizeEvidence": "어떤 리뷰에서는 크거나 크게 나와서 사이즈를 다운하라고 하고, 다른 리뷰에서는 작게 나와서 사이즈를 업하라고 하는 등 의견이 엇갈립니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 27개 중 작다 4 · 정사이즈 5 · 크다 4",
    "productType": "jogger pants",
    "materials": [
     "cotton"
@@ -10263,8 +10263,8 @@
     "소리가 다소 시끄러울 수 있음",
     "일부 부위가 쉽게 부러질 수 있다는 평도 있음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 명확한 의류 사이즈 평가 대신 길이나 두께에 대한 언급만 존재함.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 4개 중 작다 0 · 정사이즈 1 · 크다 0",
    "productType": "wallet chain",
    "materials": [],
    "seasons": [],
@@ -10316,8 +10316,8 @@
     "세탁 후 줄어듦",
     "상하의 사이즈 불균형"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈가 작게 나와서 두 사이즈 크게 주문해도 작거나, 12사이즈인데 8사이즈 아이에게 맞다는 리뷰가 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 25개 중 작다 2 · 정사이즈 6 · 크다 1",
    "productType": "pajamas",
    "materials": [
     "fabric"
@@ -10375,8 +10375,8 @@
     "품질이 떨어지고 실밥이 풀림",
     "상하의 사이즈 비율이 맞지 않음"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈 14를 주문했는데 훨씬 작거나 6-10 사이즈 같다는 리뷰가 많습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 26개 중 작다 4 · 정사이즈 6 · 크다 0",
    "productType": "pajamas",
    "materials": [],
    "seasons": [
@@ -10430,7 +10430,7 @@
     "단추 구멍 누락 등 마감 불량"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "2X를 주문했으나 2~6사이즈 혹은 아동용 수준으로 터무니없이 작게 나왔다는 리뷰가 대다수입니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 40개 중 작다 14 · 정사이즈 1 · 크다 1",
    "productType": "skinny jeans",
    "materials": [
     "denim"
@@ -10487,8 +10487,8 @@
     "심한 화학 냄새 (여러 번 세탁 필요)",
     "세탁 후 줄어듦 현상"
    ],
-   "sizeFit": "runs_large",
-   "sizeEvidence": "여러 리뷰에서 평소 사이즈보다 크거나 입을수록 늘어난다고 언급하였으며, 한 치수 작은 것을 추천하는 의견이 많음.",
+   "sizeFit": "mixed",
+   "sizeEvidence": "사이즈 언급 리뷰 19개 중 작다 2 · 정사이즈 4 · 크다 4",
    "productType": "jeans",
    "materials": [
     "denim",
@@ -10542,8 +10542,8 @@
     "솜털이나 보풀이 남을 수 있음",
     "일부 제품은 쉽게 찢어짐"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈로 맞다는 의견과 약간 크거나 작다는 의견, 혹은 넉넉하게사려 사이즈를 조절했다는 의견 등 크기에 대한 평가가 엇갈립니다.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 12개 중 작다 3 · 정사이즈 2 · 크다 1",
    "productType": "bathrobe",
    "materials": [
     "fabric"
@@ -10598,7 +10598,7 @@
     "특유의 냄새가 남"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "많은 리뷰어들이 사이즈가 작게 나와서 한 사이즈 크게 주문해야 한다고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 21개 중 작다 6 · 정사이즈 3 · 크다 1",
    "productType": "jeans",
    "materials": [
     "denim",
@@ -10663,7 +10663,7 @@
     "허벅지 부근이 조이고 낄 수 있음"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대부분의 리뷰에서 2XL를 주문해도 너무 작아서 아이들이나 작은 사이즈에게 맞고, 여러 사이즈를 업해야 한다고 언급함.",
+   "sizeEvidence": "사이즈 언급 리뷰 39개 중 작다 12 · 정사이즈 1 · 크다 0",
    "productType": "leggings",
    "materials": [
     "fleece",
@@ -10721,8 +10721,8 @@
     "금방 고장 나는 저렴한 지퍼",
     "키가 큰 사람에게는 짧은 기장"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "품이나 너비는 넉넉하고 편안하지만, 키가 큰 사람에게는 기장이 짧거나 작게 느껴진다는 리뷰가 많습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 16개 중 작다 0 · 정사이즈 4 · 크다 4",
    "productType": "onesie",
    "materials": [
     "fleece",
@@ -10779,8 +10779,8 @@
     "두 손으로 조절해야 함",
     "설명과 달리 길이 개수나 사이즈에 혼선이 있음"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "길이가 짧거나 너무 딱 맞게 느껴진다는 리뷰가 존재함",
+   "sizeFit": "mixed",
+   "sizeEvidence": "사이즈 언급 리뷰 7개 중 작다 1 · 정사이즈 1 · 크다 1",
    "productType": "belt",
    "materials": [
     "elastic",
@@ -10831,8 +10831,8 @@
     "내구성이 약해 쉽게 고장 남",
     "마감이 저렴한 느낌임"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈 관련 언급이 없습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 6개 중 작다 0 · 정사이즈 1 · 크다 0",
    "productType": "belt",
    "materials": [
     "elastic",
@@ -10886,8 +10886,8 @@
     "지퍼가 고장나거나 플라스틱 냄새가 남",
     "소재가 쉽게 헤어지거나 구김이 감"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대체로 잘 맞거나 정사이즈라는 평이 많으나, 크거나 작다는 의견과 체형별로 허리나 발목 등의 핏에 불만을 제기하는 의견도 섞여 있습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 25개 중 작다 2 · 정사이즈 12 · 크다 3",
    "productType": "jeggings",
    "materials": [
     "rayon blend",
@@ -10946,7 +10946,7 @@
     "마감 및 품질 불량"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대다수의 리뷰에서 사이즈가 작게 나와서 한 사이즈 또는 두 사이즈 크게 주문해야 한다고 언급하고 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 28개 중 작다 9 · 정사이즈 6 · 크다 0",
    "productType": "jeans",
    "materials": [
     "denim"
@@ -11007,7 +11007,7 @@
     "오배송 문제가 발생할 수 있음"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "대체로 아이들 나이에 비해 작게 나온다는 의견이 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 12개 중 작다 2 · 정사이즈 2 · 크다 0",
    "productType": "bathrobe",
    "materials": [
     "fleece",
@@ -11066,7 +11066,7 @@
     "추가 구멍을 뚫어야 할 수 있음"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "사이즈가 잘 맞고 설명된 그대로라는 리뷰가 다수입니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 15개 중 작다 1 · 정사이즈 7 · 크다 2",
    "productType": "belt",
    "materials": [
     "leather"
@@ -11124,8 +11124,8 @@
     "쉽게 올이 풀리거나 찢어짐",
     "저렴해 보이는 품질"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "작게 나왔다는 리뷰가 많고 가슴이나 전체적인 핏이 타이트하다는 평이 다수 존재함.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 2 · 정사이즈 4 · 크다 1",
    "productType": "nightgown",
    "materials": [
     "satin",
@@ -11187,8 +11187,8 @@
     "첫 착용 시 바지가 풀리는 문제 발생",
     "소재가 얇음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대체로 잘 맞거나 정사이즈라는 평이 많으나, 약간 크거나 길다는 의견과 세트 간 사이즈가 잘못 배송되거나 제각각이라는 부정적 리뷰도 존재합니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 0 · 정사이즈 9 · 크다 1",
    "productType": "pajamas set",
    "materials": [
     "fabric"
@@ -11242,8 +11242,8 @@
     "사용할수록 색이 바래거나 변색됨",
     "프린트가 한쪽 면에만 있음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 평가는 디자인이 생각보다 크거나 적당하다는 의견이 있으나 의류나 신발 사이즈에 대한 언급은 없습니다.",
+   "sizeFit": "runs_large",
+   "sizeEvidence": "사이즈 언급 리뷰 4개 중 작다 0 · 정사이즈 0 · 크다 1",
    "productType": "keychain",
    "materials": [
     "plush"
@@ -11295,8 +11295,8 @@
     "벨트 루프가 뜯어질 수 있음",
     "더 꽉 조여지지 않음"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈에 대한 구체적인 언급이 없습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 2개 중 작다 0 · 정사이즈 1 · 크다 0",
    "productType": "belt",
    "materials": [
     "elastic",
@@ -11348,7 +11348,7 @@
     "크고 독특한 개구부 디자인"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "일부 리뷰에서 한 사이즈 크게 주문해야 했다거나 키와 상체 길이 때문에 짧고 작게 느껴졌다는 의견이 많았습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 21개 중 작다 10 · 정사이즈 2 · 크다 1",
    "productType": "lingerie",
    "materials": [
     "lace",
@@ -11406,8 +11406,8 @@
     "너무 짧거나 작아서 배가 보이는 상의",
     "쉽게 떨어지는 단추 등 품질 문제"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "정사이즈라는 의견과 잘 맞지 않고 너무 작거나 크다는 의견이 모두 존재합니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 13개 중 작다 1 · 정사이즈 3 · 크다 1",
    "productType": "clothing set",
    "materials": [
     "denim",
@@ -11465,7 +11465,7 @@
     "저렴해 보이는 품질"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "여러 리뷰에서 사이즈가 작거나 다리 길이가 짧다고 언급됨",
+   "sizeEvidence": "사이즈 언급 리뷰 11개 중 작다 3 · 정사이즈 3 · 크다 0",
    "productType": "romper",
    "materials": [
     "cotton"
@@ -11520,7 +11520,7 @@
     "얇은 두께감"
    ],
    "sizeFit": "true_to_size",
-   "sizeEvidence": "대다수의 고객이 예상대로 잘 맞거나 정사이즈라고 언급했습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 15개 중 작다 1 · 정사이즈 8 · 크다 1",
    "productType": "pajamas",
    "materials": [
     "cotton"
@@ -11573,8 +11573,8 @@
     "일부 사이즈가 작게 느껴짐",
     "두께가 아주 두껍지는 않음"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "대부분 잘 맞거나 예상대로라는 평이 많으나, 작게 느껴졌다는 리뷰도 존재함",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 10개 중 작다 1 · 정사이즈 3 · 크다 0",
    "productType": "bathrobe",
    "materials": [
     "fabric"
@@ -11629,7 +11629,7 @@
     "작거나 애매한 사이즈"
    ],
    "sizeFit": "runs_small",
-   "sizeEvidence": "작게 나왔다는 리뷰가 많고 엉덩이와 허리가 타이트하다는 평이 있습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 17개 중 작다 6 · 정사이즈 2 · 크다 2",
    "productType": "jeans",
    "materials": [
     "denim",
@@ -11689,8 +11689,8 @@
     "사이즈가 작거나 큼",
     "잘 지워지지 않는 포장 구김"
    ],
-   "sizeFit": "mixed",
-   "sizeEvidence": "어떤 리뷰어는 크다고 하고 다른 리뷰어는 작다고 하는 등 사이즈가 맞지 않는다는 의견이 엇갈림",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 14개 중 작다 7 · 정사이즈 2 · 크다 1",
    "productType": "nightgown",
    "materials": [
     "polyester",
@@ -11743,8 +11743,8 @@
     "작동이 번거롭고 부품이 분해됨",
     "설명서 부족"
    ],
-   "sizeFit": "unknown",
-   "sizeEvidence": "사이즈 적합성에 대한 리뷰어들의 직접적인 언급이 없음.",
+   "sizeFit": "runs_small",
+   "sizeEvidence": "사이즈 언급 리뷰 6개 중 작다 1 · 정사이즈 0 · 크다 0",
    "productType": "pant stretcher",
    "materials": [
     "aluminium alloy",
@@ -11793,7 +11793,7 @@
     "길이가 길어 구멍을 뚫거나 잘라야 함"
    ],
    "sizeFit": "runs_large",
-   "sizeEvidence": "벨트가 너무 길어서 구멍을 더 뚫거나 잘라야 한다는 의견이 많습니다.",
+   "sizeEvidence": "사이즈 언급 리뷰 5개 중 작다 0 · 정사이즈 0 · 크다 1",
    "productType": "belt",
    "materials": [
     "leather"
@@ -11845,8 +11845,8 @@
     "밝은 옷에 이염됨",
     "화학 냄새가 남"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "사이즈가 작다는 의견과 미디엄 사이즈 남성에게 작다는 리뷰가 있음",
+   "sizeFit": "unknown",
+   "sizeEvidence": "사이즈를 판단할 만한 리뷰가 없어요",
    "productType": "apron",
    "materials": [
     "leather",
@@ -11897,8 +11897,8 @@
     "사진과 다른 디자인 및 색상",
     "품질 및 내구성 문제"
    ],
-   "sizeFit": "runs_small",
-   "sizeEvidence": "일부 고객은 플러스 사이즈가 아니며 십대 딸에게 겨우 맞을 정도로 작다고 평가했습니다.",
+   "sizeFit": "true_to_size",
+   "sizeEvidence": "사이즈 언급 리뷰 15개 중 작다 0 · 정사이즈 2 · 크다 0",
    "productType": "leggings",
    "materials": [],
    "seasons": [],
