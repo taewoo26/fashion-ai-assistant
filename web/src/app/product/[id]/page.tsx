@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { formatPrice, getProduct, products, SIZE_KO } from "@/lib/data";
+import { formatPrice, getProduct, metrics, products, SIZE_KO } from "@/lib/data";
 import type { SizeFit } from "@/lib/types";
 import { AiTag, CategoryLabel, ProductImage, Rating, SizeBadge } from "@/components/ui";
 import { AskAboutButton } from "@/components/chat/AskAboutButton";
@@ -67,6 +67,7 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
   if (!p) notFound();
   const s = p.summary;
   const price = formatPrice(p.price);
+  const sizeEval = metrics.evaluation?.size;
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-12">
@@ -143,6 +144,11 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                 {s.sizeFit !== "unknown" && <SizeMeter fit={s.sizeFit} />}
                 <p className="mt-3 text-xs leading-relaxed text-muted">{s.sizeEvidence}</p>
               </div>
+              {sizeEval && (
+                <p className="mt-2 text-[11px] text-dim">
+                  리뷰의 사이즈 의견을 세어 정한 라벨이에요 · 정답 {sizeEval.nTest}개 기준 정확도 {Math.round(sizeEval.after * 100)}%
+                </p>
+              )}
 
               <div className="mt-5 flex flex-col gap-2">
                 <Tags label="소재" items={s.materials} />
@@ -152,7 +158,7 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
               </div>
 
               <p className="mt-5 text-[11px] leading-relaxed text-dim">
-                LLM이 리뷰를 읽고 정리한 내용이에요. 일부 리뷰를 전체 의견처럼 일반화할 수 있어요.
+                요약과 장단점은 LLM이 리뷰를 읽고 정리한 내용이에요. 일부 리뷰를 전체 의견처럼 일반화할 수 있어요.
               </p>
             </section>
           ) : (

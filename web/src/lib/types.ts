@@ -77,7 +77,44 @@ export interface Metrics {
   };
   recommendation: { model: string; recall10: number; coldRecall10: number }[];
   queryUnderstanding: { method: string; categoryP5: number }[];
-  summary: { count: number; supportedRate: number; sizeAgreement: number; costUsd: number };
+  summary: {
+    count: number;
+    supportedRate: number;
+    costUsd: number;
+    excluded?: number; // 패션 상품이 아니라 뺀 개수
+    sizeShown?: number; // 사이즈 배지가 붙은 상품 수
+    sizeMinVotes?: number; // 배지를 붙이는 최소 의견 수
+    sizeAgreement?: number; // v1 형식
+  };
   groundedness: { supportedRate: number; unknownAdmitRate: number; judgeModel: string; n: number };
   latency: { medianMs: number; meanMs: number };
+  evaluation?: Evaluation; // 07~09 평가 결과 (v2)
+}
+
+export type QType = "simple" | "attribute" | "occasion" | "size" | "english";
+
+// before/after 는 모두 test 세트 기준 0~1
+export interface Evaluation {
+  search: {
+    nQueries: { dev: number; test: number };
+    method: string;
+    before: number; // 한국어 원문 검색
+    after: number; // 영어 재작성 + 하이브리드
+    byQtype: { qtype: QType; before: number; after: number; n: number }[];
+  };
+  size: {
+    nGold: number;
+    nTest: number;
+    before: number; // 04 LLM 라벨
+    rule04: number; // 04 규칙 라벨
+    after: number; // 08 최종
+    method: string;
+  };
+}
+
+export interface Meta {
+  mode: "sample" | "real";
+  generatedAt: string;
+  note?: string;
+  version?: number;
 }

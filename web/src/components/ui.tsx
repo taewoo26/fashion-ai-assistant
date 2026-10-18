@@ -1,42 +1,7 @@
 import { CATEGORY_KO, SIZE_KO } from "@/lib/data";
-import type { Category, Product, SizeFit } from "@/lib/types";
+import type { Category, SizeFit } from "@/lib/types";
 
-const CAT_HUE: Record<Category, string> = {
-  dress: "from-fuchsia-500/25",
-  jeans: "from-blue-500/30",
-  blouse: "from-sky-400/25",
-  leggings: "from-emerald-400/20",
-  pajamas: "from-indigo-400/25",
-  crossbody: "from-amber-400/20",
-  ring: "from-cyan-300/25",
-  watch: "from-slate-300/20",
-};
-
-export function ProductImage({ product, className = "" }: { product: Product; className?: string }) {
-  if (product.image) {
-    return (
-      // eslint-disable-next-line @next/next/no-img-element
-      <img
-        src={product.image}
-        alt={product.title}
-        loading="lazy"
-        className={`h-full w-full bg-white object-contain p-3 ${className}`}
-      />
-    );
-  }
-  const hue = product.category ? CAT_HUE[product.category] : "from-slate-400/20";
-  return (
-    <div
-      className={`relative flex h-full w-full items-center justify-center overflow-hidden bg-gradient-to-br ${hue} via-surface-2 to-surface ${className}`}
-      aria-label={`${product.title} 이미지 자리`}
-    >
-      <div className="grid-bg absolute inset-0 opacity-60" />
-      <span className="relative font-display text-xs font-bold uppercase tracking-[0.35em] text-ink/60">
-        {product.category ?? "item"}
-      </span>
-    </div>
-  );
-}
+export { ProductImage } from "./ProductImage";
 
 const SIZE_STYLE: Record<SizeFit, string> = {
   runs_small: "text-small border-small/40 bg-small/10",

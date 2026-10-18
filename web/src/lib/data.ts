@@ -2,12 +2,12 @@ import productsJson from "@/data/products.json";
 import demosJson from "@/data/chat-demos.json";
 import metricsJson from "@/data/metrics.json";
 import metaJson from "@/data/meta.json";
-import type { Category, ChatDemo, Metrics, Product, SizeFit } from "./types";
+import type { Category, ChatDemo, Meta, Metrics, Product, SizeFit } from "./types";
 
 export const products = productsJson as Product[];
 export const chatDemos = demosJson as ChatDemo[];
 export const metrics = metricsJson as Metrics;
-export const meta = metaJson as { mode: "sample" | "real"; generatedAt: string; note?: string };
+export const meta = metaJson as Meta;
 
 const byId = new Map(products.map((p) => [p.id, p]));
 export const getProduct = (id: string) => byId.get(id);
